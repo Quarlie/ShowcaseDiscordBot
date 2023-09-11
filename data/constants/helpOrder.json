@@ -1,0 +1,37 @@
+{
+    "Basic" : [
+		"Help"
+		],
+
+	"Economy" : [
+		"Top",
+		"Balance",
+		"Give"
+		],
+
+    "Fun" : [
+		"Meme",
+		"Hug",
+		"Pat",
+		"Wave",
+		"Bite",
+		"Flirt",
+		"Kiss",
+		"Lick",
+		"Poke",
+		"Dance",
+		"Kill"
+		],
+
+    "Mod" : [
+		"Dataload",
+		"Datasave",
+		"Getdata",
+		"Getbackup"
+		],
+
+    "Admin" : [
+		"Ecogive",
+		"Reload"
+		]
+}
