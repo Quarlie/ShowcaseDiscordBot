@@ -29,7 +29,7 @@ class Meme(i.Extension):
         async with asyncpraw.Reddit(client_id="XWf0drhYcxZ2qgDiwjrTzg",
                                     client_secret="pYY_pOIejBvyZB-mq-UJmyXiH1oSSQ",
                                     username="redditpraw123",
-                                    password="reddit_praw123",
+                                    password=...,
                                     user_agent="redditpraw") as reddit:
 
             submissions = []
