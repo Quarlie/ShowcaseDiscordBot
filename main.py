@@ -11,7 +11,7 @@ import interactions
 #####################
 
 
-botToken = "xxx"
+botToken = ...
 
 bot = interactions.Client(token=botToken, intents=interactions.Intents.DEFAULT | interactions.Intents.GUILD_MESSAGE_TYPING | interactions.Intents.GUILD_MEMBERS, fetch_members=True)
 
