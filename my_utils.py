@@ -11,7 +11,7 @@ async def loadDatabase(bot):
     #redis = Redis(
     #    host="containers-us-west-67.railway.app",
     #    port="6998",
-    #    password="oeGDqAJVBer0V1pqHJml")
+    #    password=...)
 
     #for key in redis.scan_iter():
     #    key = await byteToString(key)
@@ -33,7 +33,7 @@ async def saveDatabase(bot):
     #redis = Redis(
     #    host="containers-us-west-67.railway.app",
     #    port="6998",
-    #    password="oeGDqAJVBer0V1pqHJml")
+    #    password=...)
 
     #for key in redis.scan_iter():
     #    key = await byteToString(key)
